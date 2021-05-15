@@ -18,11 +18,11 @@
 
 演示效果如下：
 
-<img src="file:///C:\Users\帅气的~1\AppData\Local\Temp\ksohtml22224\wps1.png" alt="img" style="zoom: 25%;" />
+<img src="https://github.com/ErfengV/ChessServer/blob/master/doc/wps1.png" alt="img" style="zoom: 50%;" />
 
 
 
-<img src="D:\桌面d盘\桌面整理\20210115\软件设计大赛\其他资料\Chess项目开发记录\开发日志\其他讨论资料\实现AI联机.jpg" alt="实现AI联机" style="zoom: 33%;" />
+<img src="https://github.com/ErfengV/ChessServer/blob/master/doc/%E5%AE%9E%E7%8E%B0AI%E8%81%94%E6%9C%BA.jpg" alt="实现AI联机" style="zoom: 50%;" />
 
 
 
@@ -117,4 +117,4 @@ SUCCESS(1,"成功");
 
 **三、AI的UML类图**
 
-<img src="file:///C:\Users\帅气的~1\AppData\Local\Temp\ksohtml22224\wps2.jpg" alt="img" style="zoom: 50%;" />
+<img src="https://github.com/ErfengV/ChessServer/blob/master/doc/wps2.jpg" alt="img" style="zoom: 55%;" />
